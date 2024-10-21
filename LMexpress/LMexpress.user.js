@@ -9,8 +9,8 @@
 // @icon         https://jimboy3100.github.io/banners/CropedImage128.gif
 // @match        https://agar.io/*
 // @match        https://play.google.com/*
-// @downloadURL  https://jimboy3100.github.io/LMexpress/LMexpress.user.js
-// @updateURL    https://jimboy3100.github.io/LMexpress/LMexpress.user.js
+// @downloadURL  https://Potter14324.github.io/LMexpress/LMexpress.user.js
+// @updateURL    https://Potter14324.github.io/LMexpress/LMexpress.user.js
 // @run-at       document-start
 // @grant        GM_xmlhttpRequest
 // @connect      hslo.io
